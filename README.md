@@ -3,6 +3,7 @@ RGB based 2nd order Image Segmentation.<br>
 * Segmenting image in top 'n' colors present ['n' is given by user].<br>
 * Using RGB image format and KMeans clustering algo.<br>
 * Sub-labelling dissconnected pixel sections belonging to same Cluster.
+![RGB2oSeg](RGB2oSeg\shown\with\Labelling.jpg)
 
 ### Usage
 **Note:** Run the following codes in command terminal.<br>
