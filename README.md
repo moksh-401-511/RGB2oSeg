@@ -4,7 +4,7 @@ RGB based 2<sup>nd</sup> order Image Segmentation.<br>
 * Using RGB image format and KMeans clustering algo.<br>
 * Sub-labelling dissconnected pixel sections belonging to same Cluster.<br>
 ### RGB based 2<sup>nd</sup> order Segmentation shown with Labelling
-![RGB2oSeg](RGB2oSeg_shown_with_Labelling.jpg)
+![RGB2oSeg](RGB2oSeg_shown_with_Labelling.png)
 
 ## Usage
 **Note:** Run the following codes in command terminal.<br>
